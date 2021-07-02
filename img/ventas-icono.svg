@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Grupo_268" data-name="Grupo 268" transform="translate(-108 -77)">
+    <rect id="Rectángulo_2022" data-name="Rectángulo 2022" width="64" height="64" rx="32" transform="translate(108 77)" fill="#333"/>
+    <path id="shopping-bag" d="M28.556,31.916,26.048,8.031a.982.982,0,0,0-.977-.88H20.357V6.077a6.076,6.076,0,0,0-12.153,0V7.151H3.49a.982.982,0,0,0-.977.88L0,31.916A.982.982,0,0,0,.982,33h26.6a.982.982,0,0,0,.977-1.085ZM10.168,6.077a4.112,4.112,0,0,1,8.224,0V7.151H10.168Zm-8.1,24.959,2.3-21.92H8.2V11.28a.982.982,0,1,0,1.964,0V9.116h8.224V11.28a.982.982,0,1,0,1.964,0V9.116h3.83l2.3,21.92Zm0,0" transform="translate(125.795 89)" fill="#fff"/>
+  </g>
+</svg>
